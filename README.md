@@ -15,4 +15,4 @@ for part two we added this scripts: <br>
 > - Igraph: in this interface we added the GetWeight() function <br>
 > - Dijkstra: in this script we realization the Dijkstra's algorithm. <br>
 > - TargetMover: in TargetMover we define the way to use Dijkstra in the game. <br>
-> - PriorityQueue: this script we take from the internet.
+
