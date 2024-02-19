@@ -6,7 +6,7 @@ the game demonstrating work with tiles in unity, in the game you play as some ch
 use the arrows to move <br>
 
 for part one we added this scripts: <br>
-> - Invisibilty: in this script we control the sprite renderer of the enemy [click here](https://github.com/AvihayFinish/tileMap/blob/main/Assets/Scripts/3-enemies/Invisibility.cs) <br> 
+> - Invisibilty: in this script we control the sprite renderer of the enemy. [click here](https://github.com/AvihayFinish/tileMap/blob/main/Assets/Scripts/3-enemies/Invisibility.cs) <br>
 > - Booster: this script inherits from Chaser script [click here](https://github.com/AvihayFinish/tileMap/blob/main/Assets/Scripts/3-enemies/Booster.cs) <br>
 > - EnemyControllerStateMachine: in this script we add the states Booster and Invisibillity, and the transitions to them. The transition for Booster its a radius smaller then the radius for the Chaser and to invisibillity its some probability. [click here](https://github.com/AvihayFinish/tileMap/blob/main/Assets/Scripts/3-enemies/EnemyControllerStateMachine.cs)
 
