@@ -13,5 +13,6 @@ for part one we added this scripts: <br>
 for part two we added this scripts: <br>
 > - TileMapForDijkstra: this script is same as TileMap but we added Dictionary member class to define the weights of the various tiles and the function GetWeights() to get the weight of the tile with her position. <br>
 > - Igraph: in this interface we added the GetWeight() function <br>
-> - Dijkstra: in this script we realization the Dijkstra's algorithm.
-> - TargetMover: in TargetMover we define the way to use Dijkstra in the game.
+> - Dijkstra: in this script we realization the Dijkstra's algorithm. <br>
+> - TargetMover: in TargetMover we define the way to use Dijkstra in the game. <br>
+> - PriorityQueue: this script we take from the internet. <br>
