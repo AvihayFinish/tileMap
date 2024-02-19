@@ -1,6 +1,6 @@
 # tileMap project
 
-# to the game [click here](https://afinish.itch.io/tilemap-project)
+to the game [click here](https://afinish.itch.io/tilemap-project)
 
 the game demonstrating work with tiles in unity, in the game you play as some character and there is a enemy that you need to escape from him <br>
 use the arrows to move <br>
